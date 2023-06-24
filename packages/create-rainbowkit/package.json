@@ -23,7 +23,7 @@
   "dependencies": {
     "chalk": "5.0.1",
     "commander": "9.2.0",
-    "cpy": "9.0.1",
+    "cpy": "10.0.0",
     "execa": "6.1.0",
     "fs-extra": "10.1.0",
     "prompts": "2.4.2",
